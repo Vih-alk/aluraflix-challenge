@@ -1,0 +1,8 @@
+.botao {
+    background-color: var(--preto-opaco);
+    color: var(--branco);
+    border-color: var(--branco);
+    border: solid 1px;
+    font-size: 21px;
+    padding: 16px 24px;
+}
