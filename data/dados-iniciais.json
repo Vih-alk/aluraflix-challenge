@@ -1,0 +1,98 @@
+{
+    "videos": [
+        {   
+            "titulo": "O que é React JS?",
+            "id": 1,
+            "capa": "",
+            "link": "https://www.youtube.com/embed/6IuQUgeDPg0?si=BWwLsoZe7_ZvGoPI",
+            "secao": "Front End",
+            "descricao":"Todos os vídeo que estou usando para estudar Front End ",
+            "codigo": "001"
+        },
+        {   
+            "titulo": "Use State: Aprenda o React Hook neste tutorial",
+            "id": 2,
+            "capa": "",
+            "link": "https://www.youtube.com/embed/KdQa4Rd6K1A?si=rD8qnk-ArklDQI1C",
+            "secao": "Front End",
+            "descricao":"Todos os vídeo que estou usando para estudar Front End ",
+            "codigo": "001"
+        },
+        {   
+            "titulo": "O que faz uma desenvolvedora front-end?",
+            "id": 3,
+            "capa": "",
+            "link": "https://www.youtube.com/embed/ZY3-MFxVdEw?si=XDJLxPKRAkFNFxsp",
+            "secao": "Front End",
+            "descricao":"Todos os vídeo que estou usando para estudar Front End ",
+            "codigo": "001"
+        },
+        {   
+            "titulo": "Transformação Digital",
+            "id": 4,
+            "capa": "",
+            "link": "https://www.youtube.com/embed/Z-N5Fr9P-GU?si=wtzYqimTGhU94a0M",
+            "secao": "Front End",
+            "descricao":"Todos os vídeo que estou usando para estudar Front End ",
+            "codigo": "001"
+        },
+        {   
+            "titulo": "Inteligência artificial poderosa",
+            "id": 5,
+            "capa": "",
+            "link": "https://www.youtube.com/embed/Kk3vBRqKA2o?si=4dJrVigI1C49UAko",
+            "secao": "Data Science",
+            "descricao":"Coisas de R e Python que venho aprendendo",
+            "codigo": "002"
+        },
+
+        {   
+            "titulo": "Universo Data Science",
+            "id": 6,
+            "capa": "",
+            "link": "https://www.youtube.com/embed/K-eaT4V8j-w?si=DQzkylb0ZiCIjD48",
+            "secao": "Data Science",
+            "descricao":"Coisas de R e Python que venho aprendendo",
+            "codigo": "002"
+        },
+        {   
+            "titulo": "Aplicações de Machine Learning",
+            "id": 7,
+            "capa": "",
+            "link": "https://www.youtube.com/embed/qYhixp5qxTc?si=dbCkMMicF2Wckdrn",
+            "secao": "Data Science",
+            "descricao":"Coisas de R e Python que venho aprendendo",
+            "codigo": "002"
+        },
+        {   
+            "titulo": "Dev IOS",
+            "id": 8,
+            "capa": "",
+            "link": "https://www.youtube.com/embed/4AH9H_dx_7g?si=Npy3KRQZjtHSoOsg",
+            "secao": "Mobile",
+            "descricao":"Conteúdo que venho estudando sobre React Native e Flutter",
+            "codigo": "003"
+        },
+        {   
+            "titulo": "Temas e cores no SwiftUI",
+            "id": 9,
+            "capa": "",
+            "link": "https://www.youtube.com/embed/uXA8jLSuPNA?si=xd0KX7LDGfF15VGD",
+            "secao": "Mobile",
+            "descricao":"Conteúdo que venho estudando sobre React Native e Flutter",
+            "codigo": "003"
+        },
+        {   
+            "titulo": "De views para jetpack compose: integração e migração de projetos",
+            "id": 10,
+            "capa": "",
+            "link": "https://www.youtube.com/embed/ly8e6WB0YQo?si=GywTNzTSx7lfLoyT",
+            "secao": "Mobile",
+            "descricao":"Conteúdo que venho estudando sobre React Native e Flutter",
+            "codigo": "003"
+        }
+        
+        
+        
+    ]
+}
